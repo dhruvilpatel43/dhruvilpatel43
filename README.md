@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhruvilpatel43
 - 👀 I’m interested in Web Development, AI and App Development.
 - 🌱 I’m currently learning Web Development.  
-- 📫 How to reach me through my email :- dhruvilpatel4305@gmail.com
+- 📫 How to reach me through my email :- drpatel040305@gmail.com
 
 
 <!---
